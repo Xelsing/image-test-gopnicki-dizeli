@@ -1,8 +1,14 @@
+.korobka {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    background-color: #ECEBE7;
+}
+
 .jumbotron {
     display: flex;
     flex-direction: column;
     row-gap: 40px;
-    background-color: #ECEBE7;
 }
 
 .import-image-container {
