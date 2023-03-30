@@ -42,7 +42,25 @@
 
 .tutun {
     display: flex;
-    gap: 100px;
+    gap: 50px;
+    flex-direction: column;
+}
+
+.dudun {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.bubum {
+    display: grid;
+    gap: 50px;
+}
+
+.vuvum {
+    display: grid;
+    gap: 50px;
+    grid-template-columns: max-content max-content max-content max-content;
 }
 
 .raz {
@@ -56,3 +74,18 @@
     height: 50px;
     border: 1px solid blue;
 }
+
+
+
+.tri {
+    width: 50px;
+    height: 50px;
+    border: 1px solid darkmagenta;
+}
+
+.chetire {
+    width: 50px;
+    height: 50px;
+    border: 1px solid cyan;
+}
+
