@@ -66,13 +66,13 @@
 .raz {
     width: 50px;
     height: 50px;
-    border: 1px solid red;
+    border: 3px solid red;
 }
 
 .dva {
     width: 50px;
     height: 50px;
-    border: 1px solid blue;
+    border: 3px solid blue;
 }
 
 
@@ -80,12 +80,12 @@
 .tri {
     width: 50px;
     height: 50px;
-    border: 1px solid darkmagenta;
+    border: 3px solid darkmagenta;
 }
 
 .chetire {
     width: 50px;
     height: 50px;
-    border: 1px solid cyan;
+    border: 3px solid cyan;
 }
 
