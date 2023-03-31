@@ -1,3 +1,7 @@
+.none {
+    display: none;
+}
+
 .korobka {
     display: flex;
     flex-direction: row;
